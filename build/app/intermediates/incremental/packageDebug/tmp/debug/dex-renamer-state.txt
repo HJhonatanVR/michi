@@ -1,0 +1,4 @@
+#Mon Dec 05 14:37:43 EST 2022
+base.0=/home/HJhonatanVR/AndroidStudioProjects/TicTacToe-main/michi/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
